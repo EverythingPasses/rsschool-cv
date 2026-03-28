@@ -22,3 +22,16 @@ I want to become a Front-End Developer, because in order to start degrading, you
 function greet() {  
   return "hello world!"  
 }  
+
+### Experience  
+I have experience in IT as a system administrator and a 1С developer  
+
+### Education  
+I have a university degree in Electronic Engineering  
+- Courses:  
+    - [code-basics.com HTML](https://code-basics.com/ru/languages/html)  
+    - [code-basics.com CSS](https://code-basics.com/ru/languages/css)  
+    - [code-basics.com JS](https://code-basics.com/ru/languages/javascript)  
+
+### English
+A1  
